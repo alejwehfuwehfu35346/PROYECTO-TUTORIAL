@@ -1,0 +1,52 @@
+h1{
+    color:rgb(0, 183, 255)
+}
+body{
+    background-image: url(img.jpg);
+}
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #c70404;
+	color: #ffffff;
+	padding: 20px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+main {
+	margin: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+h1, h2 {
+	font-weight: normal;
+}
+
+footer {
+	background-color: #ff0062;
+	color: #dde000;
+	padding: 20px;
+	text-align: center;
+}
